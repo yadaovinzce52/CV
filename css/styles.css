@@ -1,19 +1,20 @@
 body {
-    background-color: #CFFF8D;
+    background-color: #90EEE1;
 }
 
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #425F57;
+    border-color: #55B3F3;
     border-width: 5px;
 }
 
 h1 {
-    color: #749F82;
-    font-family: ;
+    color: #6356E5;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h3 {
-    color: #749F82;
+    color: #6356E5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
